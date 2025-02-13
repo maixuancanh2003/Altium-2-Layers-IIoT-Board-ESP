@@ -25,6 +25,8 @@ The IIOT Board ESP is designed to facilitate Industrial IoT applications, offeri
 |-------------|-----------------------------------|
 | **Top View**    | ![Top View](Image/TOP.png)      |
 | **Bottom View** | ![Bottom View](Image/BOTTOM.png) |
+| **Layout Top**    | ![Top View](Image/Layout_Top.png)      |
+| **Layout Bottom** | ![Bottom View](Image/Layout_Bottom.png) |
 
 ## 🚀 Getting Started
 To use or modify this design:
